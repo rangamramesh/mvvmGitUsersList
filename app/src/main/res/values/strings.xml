@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">GitUserListMVVM</string>
+    <string name="position" translatable="false">position</string>
+    <string name="retry">Retry</string>
+
+    <string name="string_repo_url">Repo Url : %s</string>
+    <string name="string_events_url">Events Url: %s</string>
+    <string name="string_toggle_view">Toggle view</string>
+
+</resources>
