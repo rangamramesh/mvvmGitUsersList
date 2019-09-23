@@ -5,7 +5,7 @@ import com.foo.assignment.ui.base.BaseViewModel
 import javax.inject.Inject
 
 /**
- * Created by srinivas on 2019-07-01.
+ * Created by Ramesh on 2019-07-01.
  */
 class UserDetailViewModel @Inject constructor(
     private val apiRepository: ApiRepository

@@ -17,7 +17,7 @@ import dagger.android.support.DaggerAppCompatActivity
 import javax.inject.Inject
 
 /**
- * Created by srinivas on 2019-06-29.
+ * Created by Ramesh on 2019-06-29.
  */
 abstract class BaseActivity<VM : ViewModel, DB : ViewDataBinding>(private val mViewModelClass: Class<VM>) :
     DaggerAppCompatActivity() {

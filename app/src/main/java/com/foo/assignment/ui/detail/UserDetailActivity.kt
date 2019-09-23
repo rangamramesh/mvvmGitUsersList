@@ -10,7 +10,7 @@ import com.foo.assignment.ui.base.BaseActivity
 
 
 /**
- * Created by srinivas on 2019-07-01.
+ * Created by Ramesh on 2019-07-01.
  */
 class UserDetailActivity : BaseActivity<UserDetailViewModel, ActivityDetailBinding>(UserDetailViewModel::class.java) {
 

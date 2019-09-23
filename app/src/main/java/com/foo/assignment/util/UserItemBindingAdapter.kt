@@ -7,7 +7,7 @@ import com.bumptech.glide.load.engine.DiskCacheStrategy
 import com.foo.assignment.R
 
 /**
- * Created by srinivas on 2019-07-02.
+ * Created by Ramesh on 2019-07-02.
  */
 
 @BindingAdapter("avatarUrl")

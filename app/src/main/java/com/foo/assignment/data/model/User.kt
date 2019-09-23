@@ -6,7 +6,7 @@ import java.io.Serializable
 
 
 /**
- * Created by srinivas on 2019-06-28.
+ * Created by Ramesh on 2019-06-28.
  */
 
 data class User(

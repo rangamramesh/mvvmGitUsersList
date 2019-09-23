@@ -6,7 +6,7 @@ import dagger.Binds
 import dagger.Module
 
 /**
- * Created by srinivas on 2019-06-28.
+ * Created by Ramesh on 2019-06-28.
  */
 @Module
 abstract class AppModule {

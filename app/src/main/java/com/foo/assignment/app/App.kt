@@ -5,7 +5,7 @@ import dagger.android.AndroidInjector
 import dagger.android.DaggerApplication
 
 /**
- * Created by srinivas on 2019-06-28.
+ * Created by Ramesh on 2019-06-28.
  */
 class App : DaggerApplication() {
 
